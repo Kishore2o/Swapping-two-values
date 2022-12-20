@@ -24,7 +24,8 @@ c=a
 a=b
 b=c
 print(c)
-
+## OUTPUT
+![image](https://user-images.githubusercontent.com/118679883/208679804-fc2135ee-7bf0-43f7-9311-173ed06e860f.png)
 
 
 ## RESULT:
