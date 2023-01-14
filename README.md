@@ -28,7 +28,7 @@ print(c)
 
 ```
 ## OUTPUT
-![image](./images/swap.png)
+![OUTPUT](./images/swap.png)
 
 
 ## RESULT:
