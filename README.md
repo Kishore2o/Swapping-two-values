@@ -28,7 +28,8 @@ print(c)
 
 ```
 ## OUTPUT
-![OUTPUT](./images/swap.png)
+![swap ](https://user-images.githubusercontent.com/118679883/212458382-703a328d-b838-418a-9377-e256b7c436b6.png)
+
 
 
 ## RESULT:
