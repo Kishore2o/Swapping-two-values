@@ -19,17 +19,17 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-a=int(input())
-b=int(input())
-c=a
-a=b
-b=c
-print(c)
+
+x=float(input())
+y=float(input())
+z=x
+x=y
+y=z
+print("Swapped values are:",x,y)
 
 ```
 ## OUTPUT
-![swap ](https://user-images.githubusercontent.com/118679883/212458382-703a328d-b838-418a-9377-e256b7c436b6.png)
-
+![OUTPUT](./images/swap 1.png)
 
 
 ## RESULT:
