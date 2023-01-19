@@ -20,8 +20,8 @@ End the program
 ## PROGRAM:
 ```
 
-x=float(input())
-y=float(input())
+x=input()
+y=input()
 z=x
 x=y
 y=z
